@@ -1,0 +1,11 @@
+name: coursera_capstone_data_science
+title: Coursera Capstone Data Science
+account: scalimur
+server: shinyapps.io
+appId: 148460
+bundleId: 665713
+url: https://scalimur.shinyapps.io/coursera_capstone_data_science/
+when: 1483239252.23545
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 15740845_1825616854352930_4132689367163465592_n.jpg|bigram.csv|Capstone Presentation.md|Capstone Presentation.Rpres|en_US.blogs.txt|en_US.news.txt|en_US.twitter.txt|export.R|logo.png|quadgram.csv|trigram.csv|Capstone Presentation-figure/capstone.png|join/SampleAll.txt
